@@ -56,7 +56,7 @@ Running the application is very straight forward. You can use the following step
 
 ## Author 
 
- Grace Aloo
+ Mohamed Amin
 
 ## License
 MIT

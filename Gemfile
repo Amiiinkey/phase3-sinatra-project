@@ -21,6 +21,10 @@ gem 'sinatra-activerecord'
 
 gem 'puma'
 
+gem 'rack-cors'
+
+gem 'rack-contrib'
+
 gem 'require_all'
 
 group :development do 
